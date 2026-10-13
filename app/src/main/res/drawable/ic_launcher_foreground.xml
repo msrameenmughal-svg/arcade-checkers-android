@@ -1,0 +1,24 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- Cyan checker piece -->
+  <path
+      android:fillColor="#00F0FF"
+      android:pathData="M42,66a12,12 0,1 0,24 0a12,12 0,1 0,-24 0"/>
+  <path
+      android:fillColor="#006970"
+      android:pathData="M46,66a8,8 0,1 0,16 0a8,8 0,1 0,-16 0"/>
+  <!-- Magenta checker piece -->
+  <path
+      android:fillColor="#FF4A8D"
+      android:pathData="M42,42a12,12 0,1 0,24 0a12,12 0,1 0,-24 0"/>
+  <path
+      android:fillColor="#590028"
+      android:pathData="M46,42a8,8 0,1 0,16 0a8,8 0,1 0,-16 0"/>
+  <!-- Crown on cyan piece -->
+  <path
+      android:fillColor="#00363A"
+      android:pathData="M48,62l2,-4l3,2l3,-4l3,4l3,-2l2,4z"/>
+</vector>
