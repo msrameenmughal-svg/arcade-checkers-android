@@ -25,6 +25,7 @@ import androidx.compose.ui.unit.sp
 import com.arcade.checkers.R
 import com.arcade.checkers.game.Cell
 import com.arcade.checkers.game.CheckersGame
+import com.arcade.checkers.ui.components.ArcadeChip
 import com.arcade.checkers.game.PieceColor
 import com.arcade.checkers.game.PieceType
 import com.arcade.checkers.ui.theme.*

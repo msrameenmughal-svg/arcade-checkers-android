@@ -19,6 +19,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.arcade.checkers.R
 import com.arcade.checkers.ui.components.ArcadeBottomNav
+import com.arcade.checkers.ui.components.ArcadeChip
 import com.arcade.checkers.ui.theme.*
 
 @OptIn(ExperimentalMaterial3Api::class)
